@@ -1,4 +1,4 @@
-﻿package baraja.cartas;
+package baraja.cartas;
 
 /**
  *
@@ -25,7 +25,6 @@ public abstract class Carta {
 //        } else {
 //            tapada = true;
 //        }
-
     }
 
     public void mostrar() {
@@ -36,7 +35,7 @@ public abstract class Carta {
         }
     }
 
-//    public String getRepresentacion() {
-//        return "Carta genérica";
-//    }
+    public String getRepresentacion() {
+        return "Carta genérica";
+    }
 }
