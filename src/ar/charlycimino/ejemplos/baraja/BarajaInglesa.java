@@ -1,9 +1,9 @@
-package baraja;
+package ar.charlycimino.ejemplos.baraja;
 
-import baraja.cartas.Carta;
-import baraja.cartas.CartaFigura;
-import baraja.cartas.CartaJoker;
-import baraja.cartas.CartaNumeral;
+import ar.charlycimino.ejemplos.baraja.cartas.Carta;
+import ar.charlycimino.ejemplos.baraja.cartas.CartaFigura;
+import ar.charlycimino.ejemplos.baraja.cartas.CartaJoker;
+import ar.charlycimino.ejemplos.baraja.cartas.CartaNumeral;
 import java.util.ArrayList;
 
 /**

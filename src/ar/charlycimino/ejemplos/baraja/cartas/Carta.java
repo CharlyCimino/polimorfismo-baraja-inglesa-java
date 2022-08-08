@@ -1,4 +1,4 @@
-package baraja.cartas;
+package ar.charlycimino.ejemplos.baraja.cartas;
 
 /**
  *
@@ -35,6 +35,7 @@ public abstract class Carta {
         }
     }
 
+    // Este método debe ser abstracto 
     public String getRepresentacion() {
         return "Carta genérica";
     }
